@@ -68,14 +68,14 @@ div {
 
 With the minimum requirements complete, the output should resemble:
 
-<img src="https://i.imgur.com/g0T8RNK.png">
+<img src="https://i.imgur.com/g0T8RNK.png" width=500/>
 
 
 ## Bonus
 
 Style the components to make the output look like a floor plan:
 
-<img src="https://i.imgur.com/NhRcNrk.png">
+<img src="https://i.imgur.com/NhRcNrk.png" width=500>
 
 ### Hints
 
